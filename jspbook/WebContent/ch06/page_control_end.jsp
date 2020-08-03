@@ -7,9 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-<!-- 이 주석은 클라이언트에서 볼 수 있습니다. -->
-
-<H2> JSP 주석 테스트</H2>
-<%-- 이 주석은 클라이언트에서 볼 수 없습니다 --%>
+지금 보이는 화면은 page_control_end.jsp에서 출력한 결과입니다.
+<HR>
+이름 : <%= request.getParameter("username") %> <BR>
+전화번호: <%= request.getParameter("tel") %>
 </body>
 </html>

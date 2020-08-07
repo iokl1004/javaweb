@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p:project xmlns:p="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd "></p:project>
+<!-- <description>간단한 커스텀 태그 예제</description> 
+<tlib-version>1.0</tlib-version>
+
+<short-name>MsgTagSimple</short-name>
+
+<tag>
+	<name>print</name>
+	<tag-class>jspbook.ch10.MsgSimpleHandler</tag-class>
+	<body-content>empty</body-content>
+</tag> -->
